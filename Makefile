@@ -1,4 +1,5 @@
 build:
+	@go mod download
 	@cd web/fibonacci && npm i && npm run build
 
 test:
