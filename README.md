@@ -1,7 +1,8 @@
-# Number checking webapp
+# Simple numbers webapp
 
-This webapp can check if a number is part
-of the Fibonacci sequence or if a number is prime
+This webapp can check if a number is:
+  - part of the Fibonacci sequence
+  - prime
 
 ## Preparing to launch
 
